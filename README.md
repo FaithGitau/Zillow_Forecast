@@ -126,7 +126,7 @@ Autocorrelation function and Partial autocorrelation function is a method use to
 ## Conclusions
 In conclusion, the project successfully addressed the client's objective of identifying high-ROI investment opportunities in Miami-Dade County. By leveraging advanced analytics and robust modeling techniques, we provided actionable insights that align with the client's investment goals. Moving forward, a proactive and adaptive approach to investment management will be crucial for maximizing returns and minimizing risks in the dynamic real estate market of Miami-Dade County. The Baseline ARIMA model demonstrated strong predictive performance with remarkably low Mean Squared Error (MSE) values for both the training and test datasets. The model's ability to capture and reproduce historical trends showcased its effectiveness.
 
-# Step 9. Recommendations
+## Recommendations
 
 Based on our analysis, we offer the following recommendations to the client:
 
